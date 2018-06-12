@@ -1,4 +1,8 @@
-Hello you people
+<<<<<<< HEAD
+Hello Riley Graham
+=======
+Hello Riley Graham
+>>>>>>> newfeature2
 Glad you could join them
 Welcome back.
 Roundabout
